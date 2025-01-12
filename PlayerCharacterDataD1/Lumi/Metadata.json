@@ -1,8 +1,8 @@
 {
     "vb0_hash": "b441b9f6",
     "cb4_hash": "f02baf77",
-    "vertex_count": 53772,
-    "index_count": 235059,
+    "vertex_count": 55708,
+    "index_count": 243021,
     "components": [
         {
             "vertex_offset": 0,
@@ -304,6 +304,34 @@
             "vg_count": 1,
             "vg_map": {
                 "0": 0
+            }
+        },
+        {
+            "vertex_offset": 53772,
+            "vertex_count": 52,
+            "index_offset": 235059,
+            "index_count": 246,
+            "vg_offset": 242,
+            "vg_count": 5,
+            "vg_map": {
+                "0": 120,
+                "1": 121,
+                "2": 79,
+                "3": 118,
+                "4": 114
+            }
+        },
+        {
+            "vertex_offset": 53824,
+            "vertex_count": 1884,
+            "index_offset": 235305,
+            "index_count": 7716,
+            "vg_offset": 247,
+            "vg_count": 3,
+            "vg_map": {
+                "0": 247,
+                "1": 248,
+                "2": 249
             }
         }
     ],

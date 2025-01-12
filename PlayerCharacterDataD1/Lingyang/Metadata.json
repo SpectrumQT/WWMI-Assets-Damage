@@ -1,8 +1,8 @@
 {
     "vb0_hash": "8b3c13f9",
     "cb4_hash": "f02baf77",
-    "vertex_count": 30375,
-    "index_count": 121527,
+    "vertex_count": 30435,
+    "index_count": 121797,
     "components": [
         {
             "vertex_offset": 0,
@@ -251,6 +251,23 @@
             "vg_count": 1,
             "vg_map": {
                 "0": 2
+            }
+        },
+        {
+            "vertex_offset": 30375,
+            "vertex_count": 60,
+            "index_offset": 121527,
+            "index_count": 270,
+            "vg_offset": 189,
+            "vg_count": 7,
+            "vg_map": {
+                "0": 66,
+                "1": 67,
+                "2": 68,
+                "3": 69,
+                "4": 63,
+                "5": 60,
+                "6": 70
             }
         }
     ],
